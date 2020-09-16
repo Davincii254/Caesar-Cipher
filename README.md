@@ -7,8 +7,7 @@ Technologies Used
 
 Requirements JavaScript Console
 
-Setup Instructions and Installation Clone this repository to a location in your file system. 'git clone https://github.com/Davincii254/Delani-studio Open terminal command line then navigate to the root folder of the application. cd DElani-studio Open index.html on your Browser.
-
+Setup Instructions and Installation Clone this repository to a location in your file system. 'git clone https://github.com/Davincii254/Caesar-Cipher.git Open terminal command line then navigate to the root folder of the application. cd Caesar-Cipher.
 Development Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
